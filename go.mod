@@ -1,4 +1,4 @@
-module gotorepl/m
+module github.com/k20ku/gotorepl
 
 go 1.25.0
 
